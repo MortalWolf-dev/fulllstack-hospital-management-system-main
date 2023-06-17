@@ -1,0 +1,24 @@
+HospitalManagementSystem-main/HELP.md
+HospitalManagementSystem-main/target/
+HospitalManagementSystem-main/!.mvn/wrapper/maven-wrapper.jar
+HospitalManagementSystem-main/!**/src/main/**/target/
+HospitalManagementSystem-main/!**/src/test/**/target/
+
+### STS ###
+HospitalManagementSystem-main/.apt_generated
+HospitalManagementSystem-main/.classpath
+HospitalManagementSystem-main/.factorypath
+HospitalManagementSystem-main/.project
+HospitalManagementSystem-main/.settings
+HospitalManagementSystem-main/.springBeans
+HospitalManagementSystem-main/.sts4-cache
+
+### VS Code ###
+HospitalManagementSystem-main/.vscode/
+HospitalManagementSystem-main/.mvn/
+
+
+###ANGULAR####
+ang-hospital/.vscode
+ang-hospital/node_modules
+ang-hospital/.angular
